@@ -1,0 +1,6 @@
+{
+  "name": "InvestSathi - IPO & Stock Investment Tracker",
+  "description": "Personal IPO and stock investment tracker with Supabase auth, RLS-secured portfolio management, allotment tracking, and listing gains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
